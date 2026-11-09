@@ -1,0 +1,3 @@
+# portfolio-MohammedShareef3527
+
+Hi, I'm **Mohammed Shamsul Qhadri Shareef** ([@MohammedShareef3527](https://github.com/MohammedShareef3527)), an Information Engineering student at REVA University who enjoys building practical software with Python, C and JavaScript. This repository holds my personal portfolio website, which I am building in the Portfolio Building course to practise the fundamentals of Git and GitHub: creating a repository, making small descriptive commits, working on branches, merging pull requests and publishing a live site with GitHub Pages. My main interests are machine learning, data analytics and automation tools that solve everyday problems, and the site will showcase the projects I have built so far.
